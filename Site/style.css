@@ -27,7 +27,7 @@ body, html {
 	letter-spacing: 0.08em;
 	transition: 0.3s all;
 }
-@media screen and (min-width: 716px) {
+@media all and (min-width: 716px) {
 	#nav .lien:hover {
 		color: #7f8c8d;
 	}
@@ -79,7 +79,7 @@ body, html {
 	background-color: #f5f6fa;
 	transition: 0.3s all;
 }
-@media screen and (min-width: 716px) {
+@media all and (min-width: 716px) {
 	#content-body #content-table .content-t:hover {
 		color: #f5f6fa;
 		background-color: #2c3e50;
@@ -92,7 +92,7 @@ body, html {
 	background-color: #f5f6fa;
 	transition: 0s all;
 }
-@media screen and (min-width: 716px) {
+@media all and (min-width: 716px) {
 	#content-body #content-table .content-f:hover {
 		color: #2c3e50;
 		background-color: #f5f6fa;
@@ -105,7 +105,7 @@ body, html {
 	background-color: #f5f6fa;
 	transition: 0.3s all;
 }
-@media screen and (min-width: 716px) {
+@media all and (min-width: 716px) {
 	#content-body #content-table .content-c:hover {
 		color: color #f5f6fa;
 		background-color: #4cd137;
@@ -125,7 +125,7 @@ body, html {
 	background-color: #f5f6fa;
 	transition: 0.3s all;
 }
-@media screen and (min-width: 716px) {
+@media all and (min-width: 716px) {
 	#content-body #content-table .content-m:hover {
 		color: #f5f6fa;
 		background-color: #00a8ff;
@@ -135,7 +135,7 @@ body, html {
 #nav #content-resp-nav {
 	display: none;
 }
-@media only screen and (max-width: 716px) {
+@media only all and (max-width: 716px) {
 	#nav #title-nav {
 		text-align: center;
 		padding-left: 0px;
@@ -164,7 +164,7 @@ body, html {
 		border-radius: 5px;
 	}
 }
-@media screen and (max-width: 498px){
+@media all and (max-width: 498px){
 	#content-body #content-table {
 		margin-left: -50px;
 	}
