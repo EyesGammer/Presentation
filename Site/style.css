@@ -166,6 +166,6 @@ body, html {
 }
 @media all and (max-width: 498px){
 	#content-body #content-table {
-		margin-left: -50px;
+		margin-left: -55px;
 	}
 }
